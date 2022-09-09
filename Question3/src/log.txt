@@ -1,0 +1,128 @@
+[LOG] - <function add at 0x7f95d8918ca0> - 2022-09-09 08:16:30.307709+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7fdf38041ca0> - 2022-09-09 08:17:11.405668+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7f7d18918ca0> - 2022-09-09 08:17:43.459523+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7fece84a0ca0>- (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7fcb702061f0>- (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7fcb7025fa60>- (999, 9999) ==> 10998 <class 'int'>
+[LOG] - <function cat at 0x7fcb7025fca0>- (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7fcb7025fca0>- (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7fcb7025fb80>- (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fd218100ca0> - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7f92a02161f0>2022-09-09 08:23:25.185120+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7f92a026fa60>2022-09-09 08:23:25.185500+00:00 - (999, 9999) ==> 10998 <class 'int'>
+[LOG] - <function cat at 0x7f92a026fca0>2022-09-09 08:23:25.185574+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7f92a026fca0>2022-09-09 08:23:25.185632+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7f92a026fb80>2022-09-09 08:23:25.185681+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7f84e0080ca0>2022-09-09 08:34:52.928658+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7f8910140d30>2022-09-09 08:36:32.829094+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7f96089351f0>2022-09-09 08:37:37.521008+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f96089353a0>2022-09-09 08:37:37.521761+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function add at 0x7fcde0800af0>2022-09-09 08:39:32.362198+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fcde080b040>2022-09-09 08:39:32.363018+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fcde080b160>2022-09-09 08:39:32.363595+00:00 - (9999, 73.79) ==> 10072.79 <class 'float'>
+[LOG] - <function add at 0x7f9ba86a8af0>2022-09-09 08:41:02.215264+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f9ba86b3040>2022-09-09 08:41:02.216381+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f9ba86b3160>2022-09-09 08:41:02.216900+00:00 - (9999, 73.79) ==> 10072.79 <class 'float'>
+[LOG] - <function add at 0x7fa1902481f0>2022-09-09 08:41:16.125511+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7fa19029fa60>2022-09-09 08:41:16.125876+00:00 - (999, 9999) ==> 10998 <class 'int'>
+[LOG] - <function cat at 0x7fa19029fca0>2022-09-09 08:41:16.126155+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7fa19029fca0>2022-09-09 08:41:16.126250+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7fa19029fb80>2022-09-09 08:41:16.126313+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fe0f00301f0>2022-09-09 08:41:19.974563+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7fe100087a60>2022-09-09 08:41:19.974987+00:00 - (999, 9999) ==> 10998 <class 'int'>
+[LOG] - <function cat at 0x7fe100087ca0>2022-09-09 08:41:19.975284+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7fe100087ca0>2022-09-09 08:41:19.975391+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7fe100087b80>2022-09-09 08:41:19.975460+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fab10c88af0>2022-09-09 08:41:22.952690+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fab10c93040>2022-09-09 08:41:22.953512+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fab10c93160>2022-09-09 08:41:22.954033+00:00 - (99.99, 73.79) ==> 173.78 <class 'float'>
+[LOG] - <function add at 0x7f99c01c9af0>2022-09-09 08:41:42.926177+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f99c01d3040>2022-09-09 08:41:42.928101+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f99c01d3160>2022-09-09 08:41:42.928976+00:00 - (99.99, 73.79) ==> 7378.2621 <class 'float'>
+[LOG] - <function add at 0x7f78180701f0>2022-09-09 08:42:48.693868+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7f783814fa60>2022-09-09 08:42:48.694363+00:00 - (999, 9999) ==> 9989001 <class 'int'>
+[LOG] - <function cat at 0x7f783814fca0>2022-09-09 08:42:48.694659+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7f783814fca0>2022-09-09 08:42:48.694755+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7f783814fb80>2022-09-09 08:42:48.694824+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fcc7802f1f0>2022-09-09 08:42:53.857961+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7fcc981dfa60>2022-09-09 08:42:53.858383+00:00 - (999, 9999) ==> 9989001 <class 'int'>
+[LOG] - <function cat at 0x7fcc981dfca0>2022-09-09 08:42:53.858662+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7fcc981dfca0>2022-09-09 08:42:53.858765+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7fcc981dfb80>2022-09-09 08:42:53.858837+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fd2b0bc8af0>2022-09-09 08:42:56.817620+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fd2b0bd3040>2022-09-09 08:42:56.818485+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fd2b0bd3160>2022-09-09 08:42:56.819061+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function add at 0x7f7c7009d280>2022-09-09 08:47:50.323094+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f7c7009d430>2022-09-09 08:47:50.324272+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f7c7009d550>2022-09-09 08:47:50.324815+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7f7c7009d670>2022-09-09 08:47:50.325335+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function add at 0x7fbe10e6d280>2022-09-09 08:48:28.456716+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fbe10e6d430>2022-09-09 08:48:28.457459+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fbe10e6d550>2022-09-09 08:48:28.458000+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7fbe10e6d670>2022-09-09 08:48:28.458492+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function add at 0x7f8360cf5280>2022-09-09 08:48:48.483159+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f8360cf5430>2022-09-09 08:48:48.484303+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f8360cf5550>2022-09-09 08:48:48.485057+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7f8360cf5670>2022-09-09 08:48:48.486474+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7f8360cf5670>2022-09-09 08:48:48.486653+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function add at 0x7fadf0a45280>2022-09-09 08:49:19.295644+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fadf0a45430>2022-09-09 08:49:19.296578+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fadf0a45550>2022-09-09 08:49:19.297241+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7fadf0a45670>2022-09-09 08:49:19.298039+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7fadf0a45670>2022-09-09 08:49:19.298183+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function add at 0x7fb6d010d280>2022-09-09 08:53:39.456348+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fb6d010d430>2022-09-09 08:53:39.457338+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fb6d010d550>2022-09-09 08:53:39.457879+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7fb6d010d670>2022-09-09 08:53:39.458399+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7fb6d010d670>2022-09-09 08:53:39.458476+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function add at 0x7f9cd80c5280>2022-09-09 08:54:14.022343+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f9cd80c5430>2022-09-09 08:54:14.023598+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f9cd80c5550>2022-09-09 08:54:14.024199+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7f9cd80c5670>2022-09-09 08:54:14.024763+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7f9cd80c5670>2022-09-09 08:54:14.024862+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function add at 0x7f93402b0040>2022-09-09 08:55:34.866946+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7f93200379d0>2022-09-09 08:55:34.867518+00:00 - (999, 9999) ==> 9989001 <class 'int'>
+[LOG] - <function cat at 0x7f9320037c10>2022-09-09 08:55:34.867827+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7f9320037c10>2022-09-09 08:55:34.867932+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7f9320037af0>2022-09-09 08:55:34.868003+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7fe960ba3040>2022-09-09 08:58:58.824118+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fe960ba31f0>2022-09-09 08:58:58.825466+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fe960ba3310>2022-09-09 08:58:58.826178+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7fe960ba3430>2022-09-09 08:58:58.826801+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7fe960ba3430>2022-09-09 08:58:58.826897+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function cat at 0x7fe960ba3550>2022-09-09 08:58:58.827422+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function add at 0x7f86400701f0>2022-09-09 08:59:03.551581+00:00 - (1, 2) ==> 3 <class 'int'>
+[LOG] - <function multiply at 0x7f86400c8a60>2022-09-09 08:59:03.551986+00:00 - (999, 9999) ==> 9989001 <class 'int'>
+[LOG] - <function cat at 0x7f86400c8ca0>2022-09-09 08:59:03.552332+00:00 - (<class 'list'>)==>[]
+[LOG] - <function cat at 0x7f86400c8ca0>2022-09-09 08:59:03.552416+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function divide at 0x7f86400c8b80>2022-09-09 08:59:03.552484+00:00 - (1, 1) ==> 1.0 <class 'float'>
+[LOG] - <function add at 0x7ff1e8720ca0>2022-09-09 08:59:58.356631+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7ff1e8720a60>2022-09-09 08:59:58.357465+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7ff1e8720f70>2022-09-09 08:59:58.358002+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7ff1e872b0d0>2022-09-09 08:59:58.358640+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7ff1e872b0d0>2022-09-09 08:59:58.359371+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function cat at 0x7ff1e872b1f0>2022-09-09 08:59:58.359895+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7ff1e872b1f0>2022-09-09 08:59:58.360252+00:00 - (<class 'list'>)==>[]
+[LOG] - <function add at 0x7f9c909a0940>2022-09-09 09:00:02.521593+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f9c909a0b80>2022-09-09 09:00:02.522524+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f9c909a0ca0>2022-09-09 09:00:02.523088+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7f9c909a0dc0>2022-09-09 09:00:02.523609+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7f9c909a0dc0>2022-09-09 09:00:02.523682+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function cat at 0x7f9c909a0ee0>2022-09-09 09:00:02.524174+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7f9c909a0ee0>2022-09-09 09:00:02.524295+00:00 - (<class 'list'>)==>[]
+[LOG] - <function add at 0x7fa10824e160>2022-09-09 20:42:49.112295+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7fa10824e160>2022-09-09 20:42:49.112766+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7fa10824e430>2022-09-09 20:42:49.131193+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7fa10824e550>2022-09-09 20:42:49.131847+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7fa10824e670>2022-09-09 20:42:49.132389+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7fa10824e670>2022-09-09 20:42:49.132476+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function cat at 0x7fa10824e790>2022-09-09 20:42:49.132994+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7fa10824e790>2022-09-09 20:42:49.133315+00:00 - (<class 'list'>)==>[]
+[LOG] - <function add at 0x7f9fd073f0d0>2022-09-09 20:43:41.901440+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function add at 0x7f9fd073f0d0>2022-09-09 20:43:41.901684+00:00 - (3, 5) ==> 8 <class 'int'>
+[LOG] - <function substract at 0x7f9fd073f310>2022-09-09 20:43:41.919940+00:00 - (3, 3) ==> 0 <class 'int'>
+[LOG] - <function multiply at 0x7f9fd073f430>2022-09-09 20:43:41.920605+00:00 - (1, 2) ==> 2 <class 'int'>
+[LOG] - <function divide at 0x7f9fd073f550>2022-09-09 20:43:41.921186+00:00 - (4, 2) ==> 2.0 <class 'float'>
+[LOG] - <function divide at 0x7f9fd073f550>2022-09-09 20:43:41.921274+00:00 - (<class 'list'>)==>['ZeroDivisionError']
+[LOG] - <function cat at 0x7f9fd073f670>2022-09-09 20:43:41.921798+00:00 - (<class 'list'>)==>['FileNotFoundError']
+[LOG] - <function cat at 0x7f9fd073f670>2022-09-09 20:43:41.921938+00:00 - (<class 'list'>)==>[]
